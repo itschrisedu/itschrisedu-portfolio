@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" fill="none">
+  <defs>
+    <clipPath id="appleAvatarClip">
+      <circle cx="90" cy="90" r="64" />
+    </clipPath>
+    <radialGradient id="appleRingGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(58 48) rotate(53) scale(104 104)">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.28" />
+      <stop offset="0.58" stop-color="#00D4FF" stop-opacity="0.18" />
+      <stop offset="1" stop-color="#00D4FF" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="180" height="180" rx="44" fill="#ffffff"/>
+  <circle cx="90" cy="90" r="68" fill="#f2fbff"/>
+  <circle cx="90" cy="90" r="66" stroke="#00D4FF" stroke-opacity="0.65" stroke-width="2"/>
+  <g clip-path="url(#appleAvatarClip)">
+    <rect width="180" height="180" rx="90" fill="#ffffff"/>
+    <image href="/images/logoPortfolio.png" x="26" y="26" width="128" height="128" preserveAspectRatio="xMidYMid slice"/>
+  </g>
+  <circle cx="90" cy="90" r="64" stroke="#ffffff" stroke-opacity="0.18" stroke-width="1.5"/>
+</svg>

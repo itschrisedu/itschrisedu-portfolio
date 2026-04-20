@@ -1,0 +1,11 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#111827"/>
+  <text x="120" y="95" fill="#cbd5e1" font-size="42" font-family="Arial" font-weight="700">Cementery Web — Backend colaborativo</text>
+  <rect x="120" y="150" width="1360" height="620" rx="20" fill="#1f2937" stroke="#475569"/>
+  <rect x="200" y="250" width="360" height="380" rx="18" fill="#0f172a" stroke="#94a3b8"/>
+  <rect x="620" y="250" width="360" height="380" rx="18" fill="#0f172a" stroke="#94a3b8"/>
+  <rect x="1040" y="250" width="360" height="380" rx="18" fill="#0f172a" stroke="#94a3b8"/>
+  <text x="260" y="460" fill="#e2e8f0" font-size="30" font-family="Arial">API</text>
+  <text x="730" y="460" fill="#e2e8f0" font-size="30" font-family="Arial">DB</text>
+  <text x="1120" y="460" fill="#e2e8f0" font-size="30" font-family="Arial">Servicios</text>
+</svg>

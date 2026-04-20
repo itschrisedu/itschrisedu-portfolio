@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="faviconCircle">
+      <circle cx="32" cy="32" r="31" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#faviconCircle)">
+    <image href="/images/logoC.svg" x="0" y="0" width="64" height="64" preserveAspectRatio="xMidYMid slice" />
+  </g>
+</svg>

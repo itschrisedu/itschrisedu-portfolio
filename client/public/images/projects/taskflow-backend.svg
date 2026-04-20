@@ -1,0 +1,13 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#0f172a"/>
+  <text x="120" y="100" fill="#38bdf8" font-size="44" font-family="Arial" font-weight="700">TaskFlow Backend</text>
+  <rect x="120" y="150" width="420" height="620" rx="16" fill="#1e293b" stroke="#334155"/>
+  <rect x="590" y="150" width="420" height="620" rx="16" fill="#1e293b" stroke="#334155"/>
+  <rect x="1060" y="150" width="420" height="620" rx="16" fill="#1e293b" stroke="#334155"/>
+  <rect x="160" y="220" width="340" height="90" rx="12" fill="#0ea5e9"/>
+  <rect x="630" y="220" width="340" height="90" rx="12" fill="#22c55e"/>
+  <rect x="1100" y="220" width="340" height="90" rx="12" fill="#f59e0b"/>
+  <text x="195" y="276" fill="#001018" font-size="30" font-family="Arial" font-weight="700">TO DO API</text>
+  <text x="655" y="276" fill="#05220f" font-size="30" font-family="Arial" font-weight="700">IN PROGRESS</text>
+  <text x="1130" y="276" fill="#2a1600" font-size="30" font-family="Arial" font-weight="700">DONE</text>
+</svg>

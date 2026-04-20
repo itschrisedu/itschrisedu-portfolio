@@ -1,0 +1,12 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#111827"/>
+  <text x="120" y="95" fill="#a78bfa" font-size="42" font-family="Arial" font-weight="700">Facial and Voice Recognition</text>
+  <circle cx="520" cy="460" r="220" fill="#1f2937" stroke="#8b5cf6" stroke-width="4"/>
+  <rect x="420" y="380" width="200" height="170" rx="14" fill="none" stroke="#c4b5fd" stroke-width="5"/>
+  <line x1="420" y1="430" x2="620" y2="430" stroke="#c4b5fd" stroke-width="4"/>
+  <line x1="470" y1="550" x2="570" y2="550" stroke="#c4b5fd" stroke-width="4"/>
+  <rect x="920" y="270" width="450" height="380" rx="20" fill="#1f2937" stroke="#8b5cf6" stroke-width="3"/>
+  <path d="M1030 530 C1080 420, 1140 420, 1190 530" stroke="#c4b5fd" stroke-width="8" fill="none"/>
+  <path d="M1000 560 C1080 380, 1160 380, 1240 560" stroke="#c4b5fd" stroke-width="8" fill="none"/>
+  <text x="930" y="235" fill="#ddd6fe" font-size="28" font-family="Arial">Análisis de audio + visión</text>
+</svg>

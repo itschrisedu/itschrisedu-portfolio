@@ -1,0 +1,10 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#0b1324"/>
+  <text x="120" y="95" fill="#34d399" font-size="42" font-family="Arial" font-weight="700">Bioacces — Seguridad Biométrica</text>
+  <rect x="220" y="160" width="1160" height="620" rx="22" fill="#111827" stroke="#10b981"/>
+  <circle cx="800" cy="470" r="220" fill="#052e2b" stroke="#34d399" stroke-width="6"/>
+  <path d="M800 290 C700 310,640 390,650 500 C660 620,760 680,800 690" stroke="#6ee7b7" stroke-width="8" fill="none"/>
+  <path d="M800 290 C900 310,960 390,950 500 C940 620,840 680,800 690" stroke="#6ee7b7" stroke-width="8" fill="none"/>
+  <path d="M800 350 C730 370,700 430,705 500 C710 570,760 620,800 635" stroke="#a7f3d0" stroke-width="6" fill="none"/>
+  <path d="M800 350 C870 370,900 430,895 500 C890 570,840 620,800 635" stroke="#a7f3d0" stroke-width="6" fill="none"/>
+</svg>

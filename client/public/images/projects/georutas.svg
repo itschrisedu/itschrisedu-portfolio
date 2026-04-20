@@ -1,0 +1,10 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#082f49"/>
+  <text x="120" y="95" fill="#7dd3fc" font-size="42" font-family="Arial" font-weight="700">GeoRutas Óptimas</text>
+  <rect x="130" y="150" width="1340" height="620" rx="20" fill="#0c4a6e" stroke="#38bdf8"/>
+  <path d="M220 690 C430 560, 540 360, 760 330 C940 300, 1080 470, 1380 250" stroke="#facc15" stroke-width="14" fill="none"/>
+  <circle cx="220" cy="690" r="18" fill="#22c55e"/>
+  <circle cx="1380" cy="250" r="18" fill="#ef4444"/>
+  <text x="200" y="735" fill="#dcfce7" font-size="24" font-family="Arial">Origen</text>
+  <text x="1320" y="295" fill="#fee2e2" font-size="24" font-family="Arial">Destino</text>
+</svg>

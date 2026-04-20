@@ -1,0 +1,11 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#1e293b"/>
+  <text x="120" y="95" fill="#fbbf24" font-size="42" font-family="Arial" font-weight="700">BlogPresentacion — Sitio Web</text>
+  <rect x="120" y="150" width="1360" height="620" rx="22" fill="#0f172a" stroke="#475569"/>
+  <rect x="180" y="230" width="1240" height="90" rx="12" fill="#334155"/>
+  <rect x="180" y="350" width="780" height="340" rx="12" fill="#1e293b"/>
+  <rect x="990" y="350" width="430" height="160" rx="12" fill="#1e293b"/>
+  <rect x="990" y="530" width="430" height="160" rx="12" fill="#1e293b"/>
+  <text x="220" y="288" fill="#f8fafc" font-size="30" font-family="Arial">Home · Artículos · Contacto</text>
+  <text x="230" y="560" fill="#cbd5e1" font-size="34" font-family="Arial">Contenido y presentación profesional</text>
+</svg>

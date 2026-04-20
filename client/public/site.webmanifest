@@ -1,0 +1,26 @@
+{
+  "name": "Christopher Paucar | Portafolio profesional",
+  "short_name": "Christopher Paucar",
+  "description": "Desarrollo web full stack: React, Node.js, PHP. Portafolio y contacto — Ambato, Ecuador.",
+  "lang": "es",
+  "dir": "ltr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e2326",
+  "theme_color": "#1e2326",
+  "categories": ["business", "portfolio"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
